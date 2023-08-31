@@ -16,22 +16,21 @@ body {
   line-height: 21px;
   background-color: #ffffff;
   color: #434455;
-  /* ============= COMMON STYLES ============= */
 }
 
+/* ============= COMMON STYLES ============= */
 /* ============= /PAGE HEADER ============= */
 
-}
 .logotype {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #4D5AE5;
+  color: #4d5ae5;
 }
-.span{
-  color:#2e2f42;
+.span {
+  color: #2e2f42;
 }
 .address {
   font-style: normal;
