@@ -7,10 +7,6 @@
   text-decoration: none;
 }
 
-.button {
-  cursor: pointer;
-}
-
 .body {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
@@ -31,6 +27,14 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+.logotype-link {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
 }
 .address {
   font-style: normal;
@@ -73,7 +77,6 @@ menu-item {
   font-weight: 500;
   background-color: #4d5ae5;
   color: #ffffff;
-  button: moz-focus-inner;
   border: 0;
 }
 
@@ -81,7 +84,6 @@ menu-item {
 .order-service-btn:focus {
   background-color: #404bbf;
   color: #ffffff;
-  button: -moz-focus-inner;
   border: 0;
 }
 /* ================ /HERO ================ */
