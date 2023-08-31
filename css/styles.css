@@ -3,8 +3,10 @@
   list-style-type: none;
 }
 
+.contacts-list,
 .link {
   text-decoration: none;
+  list-style-type: none;
 }
 
 .body {
@@ -28,12 +30,14 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logotype-link {
+.logotype {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
   letter-spacing: 0.03em;
+  color: #2e2f42;
+  text-decoration: none;
 }
 .address {
   font-style: normal;
