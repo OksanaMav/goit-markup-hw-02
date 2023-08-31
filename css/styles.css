@@ -1,4 +1,11 @@
 /* ============= COMMON STYLES ============= */
+
+
+body {
+  background-color: #ffffff;
+  color: #434455;
+}
+
 .list {
   list-style-type: none;
 }
@@ -8,16 +15,6 @@
   text-decoration: none;
   list-style-type: none;
 }
-
-body {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 21px;
-  background-color: #ffffff;
-  color: #434455;
-}
-
 /* ============= COMMON STYLES ============= */
 /* ============= /PAGE HEADER ============= */
 
